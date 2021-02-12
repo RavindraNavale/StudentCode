@@ -1,0 +1,7 @@
+C:\Users\ravin\source\repos\StudentAssignment\StudentAssignment\obj\Debug\StudentAssignment.csprojAssemblyReference.cache
+C:\Users\ravin\source\repos\StudentAssignment\StudentAssignment\obj\Debug\StudentAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ravin\source\repos\StudentAssignment\StudentAssignment\bin\Debug\StudentAssignment.exe.config
+C:\Users\ravin\source\repos\StudentAssignment\StudentAssignment\bin\Debug\StudentAssignment.exe
+C:\Users\ravin\source\repos\StudentAssignment\StudentAssignment\bin\Debug\StudentAssignment.pdb
+C:\Users\ravin\source\repos\StudentAssignment\StudentAssignment\obj\Debug\StudentAssignment.exe
+C:\Users\ravin\source\repos\StudentAssignment\StudentAssignment\obj\Debug\StudentAssignment.pdb
